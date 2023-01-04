@@ -3,6 +3,7 @@
 - 🌱 Currently pursuing a Masters at Somaiya Vidyavihar University in Information Security (IT)
 - 💞️ I’m looking to collaborate on React and Solidity based projects
 - 📫 How to reach me Email : ishansatheprofessional@gmail.com
+- Building my Full stack skills
 
 
 <!---
